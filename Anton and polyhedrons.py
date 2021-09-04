@@ -11,3 +11,4 @@ for i in range(len(list_polyhedrons)):
     faces += polyhedrons[list_polyhedrons[i]]
 
 print(faces)
+print('hello')
