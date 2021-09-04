@@ -1,1 +1,2 @@
-print('this is incredible!')
+for i in range(10):
+    print('This is incredible!')
